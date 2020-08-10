@@ -1,0 +1,16 @@
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\appsettings.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\WebHookApp.deps.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\WebHookApp.runtimeconfig.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\WebHookApp.runtimeconfig.dev.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\WebHookApp.dll
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Debug\netcoreapp2.2\WebHookApp.pdb
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.RazorAssemblyInfo.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.RazorAssemblyInfo.cs
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.AssemblyInfoInputs.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.AssemblyInfo.cs
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.RazorTargetAssemblyInfo.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.dll
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.pdb
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Debug\netcoreapp2.2\WebHookApp.csprojAssemblyReference.cache

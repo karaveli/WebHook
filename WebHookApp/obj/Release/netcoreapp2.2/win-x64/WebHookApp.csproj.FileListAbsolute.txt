@@ -1,0 +1,17 @@
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\appsettings.Development.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\appsettings.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\Properties\launchSettings.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.exe
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.deps.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.runtimeconfig.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.runtimeconfig.dev.json
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.dll
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\bin\Release\netcoreapp2.2\win-x64\WebHookApp.pdb
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.csprojAssemblyReference.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.RazorAssemblyInfo.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.RazorAssemblyInfo.cs
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.AssemblyInfoInputs.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.AssemblyInfo.cs
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.RazorTargetAssemblyInfo.cache
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.dll
+D:\SRC\KAFEIN\DEV\NET\kafeinHook-master\WebHookApp\obj\Release\netcoreapp2.2\win-x64\WebHookApp.pdb
